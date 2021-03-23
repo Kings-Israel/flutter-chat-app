@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339633736387",
+    "project_id": "flash-chat-c7f8a",
+    "storage_bucket": "flash-chat-c7f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339633736387:android:723fe39ba0db6ed8f03076",
+        "android_client_info": {
+          "package_name": "com.kings_israel.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339633736387-91eiq9if6r1lbvh83u35ug72lhgf04k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTvo_PoaIjA6FWfkF2LSwiy3DWNzpVj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339633736387-91eiq9if6r1lbvh83u35ug72lhgf04k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
